@@ -1,0 +1,26 @@
+[
+    {
+        "id":1001,
+        "name":"Michael Bruce",
+        "gender":".Male",
+        "designation":"System Architect"
+    },
+    {
+        "id":1002,
+        "name":"Jennifer Winters",
+        "gender":".Female",
+        "designation":"Senior Programmer"
+    },
+    {
+        "id":1003,
+        "name":"Donna Fox",
+        "gender":".Female",
+        "designation":"Office Manager"
+    },
+    {
+        "id":1004,
+        "name":"Howard Hatfield",
+        "gender":".Male",
+        "designation":"Customer Support"
+    }
+]
